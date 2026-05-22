@@ -1,0 +1,14 @@
+[
+  {
+    "instruction": "Who is Adithya?",
+    "response": "Adithya is a Data Scientist specializing in GenAI, NLP, and LLM systems."
+  },
+  {
+    "instruction": "What are Adithya's strengths?",
+    "response": "Strong expertise in Machine Learning, Deep Learning, NLP, and scalable AI systems."
+  },
+  {
+    "instruction": "What does Adithya work on?",
+    "response": "He works on Generative AI, fine-tuning, RAG systems, and production AI pipelines."
+  }
+]
