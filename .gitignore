@@ -1,0 +1,18 @@
+cat > .gitignore <<'EOF'
+# Python byte‑code
+__pycache__/
+*.pyc
+*.pyo
+# Virtual‑env directories
+venv/
+env/
+*.egg-info/
+# Model checkpoints / large binary files (keep if you want to version them, otherwise comment out)
+outputs/
+tinyllama_*/          # both LoRA & QLoRA adapter folders
+*.safetensors
+# macOS / IDE artefacts
+.DS_Store
+.idea/
+.vscode/
+EOF
